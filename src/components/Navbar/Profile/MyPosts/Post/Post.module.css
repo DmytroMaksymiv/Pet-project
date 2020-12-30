@@ -1,0 +1,33 @@
+
+.item {
+    color: red;
+
+}
+
+.item img {
+    width: 80px;
+    height: 63px;
+    border-radius: 30px;
+
+
+}
+
+.PostBorder {
+    border-color: black;
+    border-width: 8px;
+    border-style: solid;
+    border-radius: 15px;
+
+
+    background-color: orange;
+
+
+    padding: 25px;
+    margin: 10px;
+
+}
+
+.TextPostRight {
+    padding-left: 350px;
+
+}
