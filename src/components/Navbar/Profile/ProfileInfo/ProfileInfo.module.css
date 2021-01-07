@@ -1,5 +1,13 @@
 
-
 .textredact {
     color: white;
+}
+
+.mainPhoto {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.contact {
+    padding-left: 25px;
 }
